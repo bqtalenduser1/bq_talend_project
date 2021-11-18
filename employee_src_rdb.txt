@@ -1,7 +1,0 @@
-1,Rahul Patil,Pune,9765345678,26
-2,Yogesh Joshi,Nasik,9965742378,29
-3,Sarvesh Mahajan,Mumbai,9364542334,24
-4,Pranay Kulkarni,Delhi,8863452334,32
-5,Gopal Kabra,Latur,8965253421,33
-6,Sarthak Madane,Jalgaon,8564682041,37
-7,Jay Rai,Indore,9064512976,22
